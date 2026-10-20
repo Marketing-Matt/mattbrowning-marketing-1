@@ -1,0 +1,9 @@
+# Backstop only — the meta robots tag in each role page is primary.
+/cognition
+  X-Robots-Tag: noindex, nofollow
+/cognition.html
+  X-Robots-Tag: noindex, nofollow
+/coreweave
+  X-Robots-Tag: noindex, nofollow
+/coreweave.html
+  X-Robots-Tag: noindex, nofollow
